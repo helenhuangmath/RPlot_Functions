@@ -3,7 +3,7 @@
 
 ##--------------------------------------
 ## Two ways to create barcode:
-## 1. Create summary table
+## 1. Create summary table then plot
 ## 2. Directly get barplot using ggplot 
 ##--------------------------------------
 
