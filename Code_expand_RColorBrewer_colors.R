@@ -1,7 +1,6 @@
 ## Create user-defined colors for ggplot 
 ## HH 01/2022
 
-
 # R
 
 library(RColorBrewer)
